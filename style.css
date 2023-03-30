@@ -152,10 +152,6 @@ h1{
     position: relative;
 }
 
-.footercon{
-    height: 500px;
-    width: 100vw;
-}
 
 .circleleft{
     background-color: rgb(65, 65, 189);
@@ -168,7 +164,33 @@ h1{
 
 .circleright{
     background-color: rgb(65, 65, 189);
-    border-radius: 47% 53% 49% 51% / 34% 51% 49% 66%;
-    width: 330px;
-    height: 330px;
+    border-radius: 18% 9% 65% 69% / 23% 60% 50% 111%;
+    width: 530px;
+    height: 430px;
+    margin-left: 240px;
+}
+
+.circlecon{
+    display: flex;
+}
+
+.footercon{
+    height: 500px;
+    width: 100vw;
+    margin-top: 158px;
+
+}
+
+.compicon{
+    width: 267px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+.comp{
+    width: 50px
+}
+
+.text{
+    margin-top: 15px;
 }
