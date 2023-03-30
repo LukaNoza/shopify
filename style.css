@@ -175,16 +175,17 @@ h1{
 }
 
 .footercon{
-    height: 500px;
+    height: 420px;
     width: 100vw;
-    margin-top: 158px;
+    margin-top: 290px;
+    display: flex;
+    justify-content: center;
 
 }
 
 .compicon{
     width: 267px;
     height: 250px;
-    border: 1px solid black;
 }
 
 .comp{
@@ -193,4 +194,67 @@ h1{
 
 .text{
     margin-top: 15px;
+}
+
+.photo{
+    width: 50px;
+}
+
+.photoicon{
+    width: 267px;
+    height: 250px;
+    margin-left: 30px;
+}
+
+.man{
+    width: 50px;
+
+}
+
+.manicon{
+    width: 267px;
+    height: 250px;
+    margin-left: 30px;
+}
+
+.linkscon{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+    margin-left: 73px;
+
+}
+
+.image{
+    width: 150px;
+}
+
+a{
+    height: 107.44px;
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+}
+
+.bot{
+    display: flex;
+    justify-content: center;
+}
+
+.botkid{
+    width: 210px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: rgb(65, 65, 189);
+    color: aliceblue;
+}
+
+.finall{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 180px;
+    margin-top: 110px;
 }
